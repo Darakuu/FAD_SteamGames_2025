@@ -1,0 +1,1 @@
+pycharm.bat -e .\project.ipynb
